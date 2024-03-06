@@ -25,7 +25,6 @@ def rc_time(pin_to_circuit):
 
     return count
 
-
 # Catch when script is interrupted, cleanup correctly
 try:
     # Main loop
